@@ -1,23 +1,25 @@
-# Roxo Eleventy
+# SaaS Bootstrappers Eleventy
 
-Roxo is a digital agency theme for creative agencies, freelancers, graphic designers, photographers. Can be used for any kind of corporate websites who provides digital services with many expertise such as Design, Digital Products, Development, Campaign & Content, Employer Branding, Animation & Motion Graphics ,Packaging & Product Design, Retail & Spacial, Print & Editorial Design, Concept/Text, Information Design etc. Roxo ’s contact form is supported Formspree.
+SaaS Bootstrappers is a digital agency theme for creative agencies, freelancers, graphic designers, photographers. Can be used for any kind of corporate websites who provides digital services with many expertise such as Design, Digital Products, Development, Campaign & Content, Employer Branding, Animation & Motion Graphics ,Packaging & Product Design, Retail & Spacial, Print & Editorial Design, Concept/Text, Information Design etc. SaaS Bootstrappers ’s contact form is supported Formspree.
 
 ## Table of Contents
 
--  [Live Demo](#)
--  [Installation](#)
--  [Main Features](#)
--  [Support](#)
--  [Licensing](#)
--  [Hire](#)
+- [SaaS Bootstrappers Eleventy](#saas-bootstrappers-eleventy)
+  - [Table of Contents](#table-of-contents)
+  - [Live Demo](#live-demo)
+  - [Installation](#installation)
+  - [Features](#features)
+  - [Support](#support)
+  - [Licensing](#licensing)
+  - [Hire](#hire)
 
 ## Live Demo
 
-Checkout the live demo [here](https://roxo-eleventy.staticmania.com/)
+Checkout the live demo [here](https://SaaS Bootstrappers-eleventy.staticmania.com/)
 
 ## Installation
 
-1. Add the repository into your Eleventy Project repository by `git clone https://github.com/StaticMania/roxo-eleventy.git`
+1. Add the repository into your Eleventy Project repository by `git clone https://github.com/StaticMania/SaaS Bootstrappers-eleventy.git`
 
 2. Install npm dependencies by `npm install`
 

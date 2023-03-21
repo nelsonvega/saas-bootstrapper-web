@@ -1,5 +1,5 @@
 {
-   "name": "roxo_eleventy",
+   "name": "SaaS Bootstrappers_eleventy",
    "version": "1.0.0",
    "description": "",
    "main": ".eleventy.js",
@@ -10,15 +10,15 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Tanvir9290/Roxo_eleventy.git"
+      "url": "git+https://github.com/Tanvir9290/SaaS Bootstrappers_eleventy.git"
    },
    "keywords": [],
    "author": "",
    "license": "ISC",
    "bugs": {
-      "url": "https://github.com/Tanvir9290/Roxo_eleventy/issues"
+      "url": "https://github.com/Tanvir9290/SaaS Bootstrappers_eleventy/issues"
    },
-   "homepage": "https://github.com/Tanvir9290/Roxo_eleventy#readme",
+   "homepage": "https://github.com/Tanvir9290/SaaS Bootstrappers_eleventy#readme",
    "dependencies": {
       "@11ty/eleventy": "^0.12.1"
    }
