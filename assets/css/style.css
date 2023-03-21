@@ -104,7 +104,7 @@ h6 {
 }
 
 .btn-primary {
-  background: #EAA4A4;
+  background: #C9C9FF;
   color: #fff;
 }
 .btn-primary:hover {
@@ -153,7 +153,7 @@ body {
   margin-bottom: 30px;
   padding: 0 0 10px 0;
   border-width: 0 0 1px 0;
-  border-color: #EAA4A4;
+  border-color: #C9C9FF;
   font-weight: 300;
   letter-spacing: 1px;
   -webkit-appearance: none;
@@ -234,7 +234,7 @@ textarea.form-control {
   position: relative;
 }
 .site-navigation .nav-item .nav-link:hover {
-  color: #EAA4A4;
+  color: #C9C9FF;
 }
 .site-navigation .nav-item:last-child {
   margin-left: 15px;
@@ -247,7 +247,7 @@ textarea.form-control {
   height: 2px;
   width: 25px;
   transition: all 0.2s;
-  background: #EAA4A4;
+  background: #C9C9FF;
   display: block;
 }
 .site-navigation .navbar-toggler .icon-bar:not(:last-child) {
@@ -410,7 +410,7 @@ textarea.form-control {
 }
 .site-project-item-content span, .site-blog-post-content span {
   font-family: "Montserrat", sans-serif;
-  color: #EAA4A4;
+  color: #C9C9FF;
   display: block;
   margin-bottom: 10px;
 }
@@ -450,21 +450,21 @@ textarea.form-control {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 500;
-  color: #EAA4A4;
+  color: #C9C9FF;
 }
 .site-project-cta::before {
   content: "";
   position: absolute;
   height: 2px;
   width: 100%;
-  background: #EAA4A4;
+  background: #C9C9FF;
   bottom: -2px;
   transition: transform 0.3s cubic-bezier(0.36, 0.03, 0, 0.91);
   transform-origin: right;
   transform: scaleX(0);
 }
 .site-project-cta:hover {
-  color: #EAA4A4;
+  color: #C9C9FF;
   text-decoration: none;
 }
 .site-project-cta:hover::before {
@@ -484,7 +484,7 @@ textarea.form-control {
   font-size: 55px;
 }
 .site-project-header-content h1 span {
-  color: #EAA4A4;
+  color: #C9C9FF;
 }
 @media (max-width: 767px) {
   .site-project-header-content h1 {
@@ -540,7 +540,7 @@ textarea.form-control {
   transition: all 0.3s ease;
 }
 .site-project-pagination .pagination .page-item.active .page-link, .site-blog-pagination .pagination .page-item.active .page-link {
-  background-color: #EAA4A4;
+  background-color: #C9C9FF;
   color: #fff;
 }
 .site-project-single-section {
@@ -685,7 +685,7 @@ textarea.form-control {
   transition: 0.3s ease;
 }
 .site-blog-post-content h3 a:hover {
-  color: #EAA4A4;
+  color: #C9C9FF;
   text-decoration: none;
 }
 @media (max-width: 575px) {
@@ -694,7 +694,7 @@ textarea.form-control {
   }
 }
 .site-blog-post-content a {
-  color: #EAA4A4;
+  color: #C9C9FF;
   letter-spacing: 2px;
 }
 @media (max-width: 575px) {
@@ -844,7 +844,7 @@ textarea.form-control {
   flex-wrap: wrap;
 }
 .site-about-company {
-  background: #EAA4A4;
+  background: #C9C9FF;
   width: 40%;
   padding: 70px 38px;
 }
@@ -965,7 +965,7 @@ textarea.form-control {
 }
 .site-team-member-content h3 {
   font-size: 20px;
-  color: #EAA4A4;
+  color: #C9C9FF;
   margin-bottom: 10px;
   font-weight: 500;
 }
@@ -1007,7 +1007,7 @@ textarea.form-control {
   }
 }
 .site-contact-title span {
-  color: #EAA4A4;
+  color: #C9C9FF;
 }
 .site-contact-form {
   margin-top: 20px;
